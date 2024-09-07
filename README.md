@@ -1,5 +1,8 @@
 # M3TCM
 
+## Paper
+https://aclanthology.org/2024.lrec-main.949/
+
 ## Getting Started
 
 ### Installation
